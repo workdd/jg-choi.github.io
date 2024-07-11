@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yongshin Kim
+    name: Jaeghang Choi
     tagline: Machine Learning Engineer
-    avatar: Yongshin_.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: jg_.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ys.kim2@okestro.com
-#     phone: 010 2729 4727
+    email: workd.official@gmail.com
+    #     phone: 010 9040 6282
     website:
-    linkedin: Yongshin-Kim
-    github: yong-shin
-    facebook: YS.JUSTDOIT
+    linkedin: Jaeghang-Choi
+    github: workdd
+    facebook:
     instagram:
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -26,387 +26,372 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    google: Yongshin_Kim #Just type anything. You can edit in /_includes/contact.html
+    google: Jaeghang_Choi #Just type anything. You can edit in /_includes/contact.html
     CV: CV #Just type "CV". You can edit in /_includes/contact.html
     Portfolio: Portfolio
     Proposal:
-#     pdf: 
+    #     pdf:
 
-    languages:
-      - idiom: Korean
-        level: Native
+    # languages:
+    #     - idiom: Korean
+    #       level: Native
 
-      - idiom: English
-        level: Professional
+    # - idiom: English
+    #   level: Professional
 
-#       - idiom: 
-#         level: 
+    #       - idiom:
+    #         level:
 
     interests:
-      - item: Retrieval-Augmented Generation
-        link: 
+        - item: Retrieval-Augmented Generation
+          link:
 
-      - item: Embedding Model
-        link: 
-      
-      - item: Large Language Model
-        link:
-            
-      - item: Natural Language Processing
-        link:        
+        - item: Embedding Model
+          link:
+
+        - item: Large Language Model
+          link:
+
+        - item: Natural Language Processing
+          link:
 
 #       - item: <p align=right><br><br>Updated 31 Oct, 2021</p>
-#         link:   
-
+#         link:
 
 patents:
     title: Patents
     papers:
-      - title: <b>Kim. Y</b>, Lee. T, Jung. S, "AN INQUIRY MANAGEMENT SYSTEM USING CLASSIFICATION METHOD BASED IN CLOUD SERVICE AND A PLATFORM FOR INQUIRY-RESPONSE INTEGRATED MANAGEMENT"
-        details: |
-            - [<u>KR - Application No.10-2022-0190619</u>](https://yong-shin.github.io/assets/pdf/AN_INQUIRY_MANAGEMENT_SYSTEM_USING_CLASSIFICATION_METHOD_BASED_IN_CLOUD_SERVICE_AND_A_PLATFORM_FOR_INQUIRY_RESPONSE_INTEGRATED_MANAGEMENT.pdf)
-      - title: Jeong. K, <b>Kim. Y</b>, Ahn. S, Lee. T, Kim. Y, Kim. M, "A CLOUD SERVER OPERATING SYSTEM IMPLEMENTING INDIVIDUAL VIRTUALIZATION OF RESOURCES AND A METHOD FOR OPERATING CLOUD SERVER"
-        details: |
-            - [<u>KR - Application No.10-2022-0190619</u>](https://yong-shin.github.io/assets/pdf/A_CLOUD_SERVER_OPERATING_SYSTEM_IMPLEMENTING_INDIVIDUAL_VIRTUALIZATION_OF_RESOURCES_AND_A_METHOD_FOR_OPERATING_CLOUD_SERVER.pdf)
-      - title: Jung. S, Kwon. T, Lee. T, <b>Kim. Y</b>, Lee. C, Kim. J, "A CREATION MODULE FOR AUTOMATIC SWOT ANALYSIS TOOL USING ARTIFICIAL INTELLIGENCE AND A SWOT ANALYSIS SYSTEM COMPRISING THE SAME"
-        details: |
-            - [<u>KR - Application No.10-2022-0179834</u>](https://yong-shin.github.io/assets/pdf/A_CREATION_MODULE_FOR_AUTOMATIC_SWOT_ANALYSIS_TOOL_USING_ARTIFICIAL_INTELLIGENCE_AND_A_SWOT_ANALYSIS_SYSTEM_COMPRISING_THE_SAME.pdf)
-        
-studies:
-    title: Personal Studies
-    assignments:
-      - title: <b>Deep Learning</b>
-        tagline: | 
-            While studying deep learning as an NLP engineer, I made PPT with things I have been curious about or want to discuss about.
-        details: |
-            - [<u>[DL] Deep Learning Basic</u>](https://star-ant-994.notion.site/DL-Deep-Learning-Basic-202e77cc5b354a2eb2413d2c60adc30f)
-            - [<u>[DL] Multitask Learning</u>](https://star-ant-994.notion.site/Multitask-Learning-356c2ae7a44a4e2f8077ab9a83aa976f)
-            - [<u>[DL] Why does cross entropy use log function?</u>](https://star-ant-994.notion.site/DL-Why-does-cross-entropy-use-log-function-8ed0117d0a964cd5a70d465cac57e48a)
-            - [<u>[DL] Model inference using dropout</u>](https://star-ant-994.notion.site/DL-Model-inference-using-dropout-e12829d31f8c4d11acbe984c67355ed7)
-            - [<u>[NLP] Preprocessing</u>](https://star-ant-994.notion.site/NLP-Preprocessing-dd25057ed75e49c0b1cb8e236610976a)
-            - [<u>[NLP] Word Embedding</u>](https://docs.google.com/presentation/d/1A983J-PIrmRCsKLU-UUurGLyoTD7u6Jv43u6Z45Azt8/edit?usp=sharing)
-            - [<u>[NLP] Named Entity Recognition</u>](https://docs.google.com/presentation/d/1BG-9S1b4J02fX6OqNbUOVuGlTnTe15OlPJgob9jHp7M/edit#slide=id.ga6b09fafa8_0_5)
-            - [<u>[NLP] Bidirectional Encoder Representations from Transformers</u>](https://docs.google.com/presentation/d/1wKzK0SCFVfXNlNyo-Tz0L0InDg8tI3tPvRTIWsO-KTo/edit?usp=sharing)
-            - [<u>[NLP] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks</u>](https://docs.google.com/presentation/d/1N5_1lvBYSfYGQxe3N1t8-grg_vtLk4DdDMgsMekllz4/edit?usp=sharing)
-            - [<u>[NLP] Extractive Text Summarization</u>](https://star-ant-994.notion.site/NLP-Extractive-Text-Summarization-9a1d8508d93e41fa98367adbba2142cc)
-            - [<u>[NLP] Topic Modeling</u>](https://star-ant-994.notion.site/NLP-Topic-Modeling-b39b80f5117d49dd886fc574739a46c6)
-            - [<u>[NLP] Langchain</u>](https://docs.google.com/presentation/d/1UDnSUSyr08B2ysl3rM30GQgE0JtOvLsIgy_yCfCZymQ/edit?usp=sharing)
-            - [<u>[Vision] Sora</u>](https://docs.google.com/presentation/d/1A3SvKmuBfW-VZMwx5pJOVdTYsVTWa9Qmz5Y5TvuVzoQ/edit?usp=sharing)
-      - title: <b>Fun</b>
-        tagline: | 
-            Areas that I study and find fascinating when I have free time.
-        details: |
-            - [<u>Virtual Human</u>](https://docs.google.com/presentation/d/1vRID6j7VhZPzXQVyaUIC3xbjxTs005Gf8Q2HoETK8to/edit?usp=sharing)
-            - [<u>Crawling</u>](https://docs.google.com/presentation/d/12ELzGn-v_N0kOwYmw7WYJNyTYvf5EPUZviT1-r2yIfo/edit?usp=sharing)
-            - [<u>BGMGAN: Background Music Generative Adversarial Networks</u>](https://docs.google.com/presentation/d/1MCopgtOX2FHZH3eTUx3DnD-jb3jsuuTNFG-CGRKfmDw/edit?usp=sharing)
-      - title: <b>Wiki</b>
-        tagline: | 
-            As an engineer, I gathered useful information for studying and collaborating with people.
-        details: |
-            - [<u>[Bitbucket] Tutorial</u>](https://star-ant-994.notion.site/Bitbucket-Tutorial-422d2b869125407388390067f40f0209) 
-            - [<u>[Backend] Django vs. Flask vs. FastAPI</u>](https://star-ant-994.notion.site/Backend-Django-vs-Flask-vs-FastAPI-25c0fa17507d4948b020fc258de086da)
-            - [<u>[Backend] Gunicorn</u>](https://docs.google.com/presentation/d/1nRxdFlfs2IVzlTwC7C1r2L_F7B3QIxA7Un0Hn1nwd5o/edit?usp=sharing)
+        - title: <b>Kim. Y</b>, Lee. T, Jung. S, "AN INQUIRY MANAGEMENT SYSTEM USING CLASSIFICATION METHOD BASED IN CLOUD SERVICE AND A PLATFORM FOR INQUIRY-RESPONSE INTEGRATED MANAGEMENT"
+          details: |
+              - [<u>KR - Application No.10-2022-0190619</u>](https://yong-shin.github.io/assets/pdf/AN_INQUIRY_MANAGEMENT_SYSTEM_USING_CLASSIFICATION_METHOD_BASED_IN_CLOUD_SERVICE_AND_A_PLATFORM_FOR_INQUIRY_RESPONSE_INTEGRATED_MANAGEMENT.pdf)
+        - title: Jeong. K, <b>Kim. Y</b>, Ahn. S, Lee. T, Kim. Y, Kim. M, "A CLOUD SERVER OPERATING SYSTEM IMPLEMENTING INDIVIDUAL VIRTUALIZATION OF RESOURCES AND A METHOD FOR OPERATING CLOUD SERVER"
+          details: |
+              - [<u>KR - Application No.10-2022-0190619</u>](https://yong-shin.github.io/assets/pdf/A_CLOUD_SERVER_OPERATING_SYSTEM_IMPLEMENTING_INDIVIDUAL_VIRTUALIZATION_OF_RESOURCES_AND_A_METHOD_FOR_OPERATING_CLOUD_SERVER.pdf)
+        - title: Jung. S, Kwon. T, Lee. T, <b>Kim. Y</b>, Lee. C, Kim. J, "A CREATION MODULE FOR AUTOMATIC SWOT ANALYSIS TOOL USING ARTIFICIAL INTELLIGENCE AND A SWOT ANALYSIS SYSTEM COMPRISING THE SAME"
+          details: |
+              - [<u>KR - Application No.10-2022-0179834</u>](https://yong-shin.github.io/assets/pdf/A_CREATION_MODULE_FOR_AUTOMATIC_SWOT_ANALYSIS_TOOL_USING_ARTIFICIAL_INTELLIGENCE_AND_A_SWOT_ANALYSIS_SYSTEM_COMPRISING_THE_SAME.pdf)
+
+# studies:
+#     title: Personal Studies
+#     assignments:
+#         - title: <b>Deep Learning</b>
+#           tagline: |
+#               While studying deep learning as an NLP engineer, I made PPT with things I have been curious about or want to discuss about.
+#           details: |
+#               - [<u>[DL] Deep Learning Basic</u>](https://star-ant-994.notion.site/DL-Deep-Learning-Basic-202e77cc5b354a2eb2413d2c60adc30f)
+#               - [<u>[DL] Multitask Learning</u>](https://star-ant-994.notion.site/Multitask-Learning-356c2ae7a44a4e2f8077ab9a83aa976f)
+#               - [<u>[DL] Why does cross entropy use log function?</u>](https://star-ant-994.notion.site/DL-Why-does-cross-entropy-use-log-function-8ed0117d0a964cd5a70d465cac57e48a)
+#               - [<u>[DL] Model inference using dropout</u>](https://star-ant-994.notion.site/DL-Model-inference-using-dropout-e12829d31f8c4d11acbe984c67355ed7)
+#               - [<u>[NLP] Preprocessing</u>](https://star-ant-994.notion.site/NLP-Preprocessing-dd25057ed75e49c0b1cb8e236610976a)
+#               - [<u>[NLP] Word Embedding</u>](https://docs.google.com/presentation/d/1A983J-PIrmRCsKLU-UUurGLyoTD7u6Jv43u6Z45Azt8/edit?usp=sharing)
+#               - [<u>[NLP] Named Entity Recognition</u>](https://docs.google.com/presentation/d/1BG-9S1b4J02fX6OqNbUOVuGlTnTe15OlPJgob9jHp7M/edit#slide=id.ga6b09fafa8_0_5)
+#               - [<u>[NLP] Bidirectional Encoder Representations from Transformers</u>](https://docs.google.com/presentation/d/1wKzK0SCFVfXNlNyo-Tz0L0InDg8tI3tPvRTIWsO-KTo/edit?usp=sharing)
+#               - [<u>[NLP] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks</u>](https://docs.google.com/presentation/d/1N5_1lvBYSfYGQxe3N1t8-grg_vtLk4DdDMgsMekllz4/edit?usp=sharing)
+#               - [<u>[NLP] Extractive Text Summarization</u>](https://star-ant-994.notion.site/NLP-Extractive-Text-Summarization-9a1d8508d93e41fa98367adbba2142cc)
+#               - [<u>[NLP] Topic Modeling</u>](https://star-ant-994.notion.site/NLP-Topic-Modeling-b39b80f5117d49dd886fc574739a46c6)
+#               - [<u>[NLP] Langchain</u>](https://docs.google.com/presentation/d/1UDnSUSyr08B2ysl3rM30GQgE0JtOvLsIgy_yCfCZymQ/edit?usp=sharing)
+#               - [<u>[Vision] Sora</u>](https://docs.google.com/presentation/d/1A3SvKmuBfW-VZMwx5pJOVdTYsVTWa9Qmz5Y5TvuVzoQ/edit?usp=sharing)
+#         - title: <b>Fun</b>
+#           tagline: |
+#               Areas that I study and find fascinating when I have free time.
+#           details: |
+#               - [<u>Virtual Human</u>](https://docs.google.com/presentation/d/1vRID6j7VhZPzXQVyaUIC3xbjxTs005Gf8Q2HoETK8to/edit?usp=sharing)
+#               - [<u>Crawling</u>](https://docs.google.com/presentation/d/12ELzGn-v_N0kOwYmw7WYJNyTYvf5EPUZviT1-r2yIfo/edit?usp=sharing)
+#               - [<u>BGMGAN: Background Music Generative Adversarial Networks</u>](https://docs.google.com/presentation/d/1MCopgtOX2FHZH3eTUx3DnD-jb3jsuuTNFG-CGRKfmDw/edit?usp=sharing)
+#         - title: <b>Wiki</b>
+#           tagline: |
+#               As an engineer, I gathered useful information for studying and collaborating with people.
+#           details: |
+#               - [<u>[Bitbucket] Tutorial</u>](https://star-ant-994.notion.site/Bitbucket-Tutorial-422d2b869125407388390067f40f0209)
+#               - [<u>[Backend] Django vs. Flask vs. FastAPI</u>](https://star-ant-994.notion.site/Backend-Django-vs-Flask-vs-FastAPI-25c0fa17507d4948b020fc258de086da)
+#               - [<u>[Backend] Gunicorn</u>](https://docs.google.com/presentation/d/1nRxdFlfs2IVzlTwC7C1r2L_F7B3QIxA7Un0Hn1nwd5o/edit?usp=sharing)
 
 career-profile:
-    title: Welcome to Yongshin's page
+    title: Welcome to Jaeghang's page
     summary: |
-      I graduated M.S. in the Graduate School of Data Science at <a href="https://www.kaist.ac.kr/en/"><u>KAIST</u></a>. I was a member of the <a href="https://ic.kaist.ac.kr/"><u>Interactive Computing Lab</u></a> advised by 
-      <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ"><u>Prof. Uichin Lee</u></a>. I completed my master's research for predicting human emotion using audio and physiological signals. In particular, I analyzed how the counterpart's 
-      data positively affects the speaker's emotion prediction during the naturalistic conversation.
-      <p>I am currently working as a machine learning engineer in <a href="http://www.okestro.com/"><u>Okestro</u></a>  studying Natural Language Processing(NLP).
-      Our team was interested in research on automation of corporate analysis in the area of business intelligence using NLP.
-      We conducted research to provide a service that evaluates companies in real time in a cloud environment.
-      These days, our team is interested in generative models. We are using Retrieval-Augmented Generation to create a chatbot that can answer queries in its domain. 
-      We're utilizing the langchain library that makes this process easier. In addition, we are working on a project to fine-tune an open-source gpt model such as llama to learn knowledge about our domain.
-      </p>
-      <p>Other than academic things, I enjoy exercising. I like sports using rackets such as badminton and tennis.
-      Another hobby is playing Go. The rules are simple, but Go requires very deep strategic thinking, which provides a rest for my busy life.
-      I'm a consistent person. I do my best to carry out any task with responsibility.</p>
-      
+        I graduated M.S. in the Graduate School of Data Science at Kookmin University I was a member of the <a href="https://https://ddps.cloud/"><u>DDPS Lab</u></a>
 #      In addition, I am interested in video and speech synthesis. I am also managing music generation research using GAN(Generative Adversarial Networks).
 #      Unlike this, I previously studied causal analysis. Analyze time-series sensor data using causal techniques such as matching and CCM(Convergent Cross Mapping).
-      
-education:
-    - degree: Data Science (M.S.)
-      university: KAIST | Korea Advanced Institute of Science and Technology
-      time: 2020 - 2022
-      details: |
-        Interactive Computing Lab advised by Uichin Lee
-    - degree: Mathematics and Statistics (B.A.)
-      university: HGU | Handong Global University
-      time: 2014 - 2020
-      details: |
 
+education:
+    # - degree: Data Science (M.S.)
+    #   university: KAIST | Korea Advanced Institute of Science and Technology
+    #   time: 2020 - 2022
+    #   details: |
+    #       Interactive Computing Lab advised by Uichin Lee
+    # - degree: Mathematics and Statistics (B.A.)
+    #   university: HGU | Handong Global University
+    #   time: 2014 - 2020
+    #   details: |
 
 experiences:
     - role: Machine Learning Engineer
-      time: 2022.09 - Present
+      time: 2023.08 - Present
       company: Okestro
       details: |
-        I am currently working as a machine learning engineer studying NLP.
-        Our team's attention is directed towards generative models, particularly, the utilization of Retrieval-Augmented Generation to build a chatbot capable of responding to domain-specific queries.
-        We are leveraging the langchain library to simplify this process. Furthermore, we are engaged in a project aimed at fine-tuning an open-source GPT model like llama to acquire expertise in our specific domain.
+          I am currently working as a machine learning engineer studying NLP.
+          Our team's attention is directed towards generative models, particularly, the utilization of Retrieval-Augmented Generation to build a chatbot capable of responding to domain-specific queries.
+          We are leveraging the langchain library to simplify this process. Furthermore, we are engaged in a project aimed at fine-tuning an open-source GPT model like llama to acquire expertise in our specific domain.
 
-    - role: Researcher
-      time: 2020.08 - 2022.07
-      company: Interactive Computing Lab, KAIST
-      details: |
-        I participated in Digital Therapeutics(DTx), Smart mask, Contact tracing projects. Currently, I'm focusing on the DTx project to develop
-        a platform that analyzes the effectiveness of digital treatments by studying and applying causal analysis techniques such as matching and CCM and also 
-        developing algorithms and interactive visualization platforms that use human biometric data to predict stress levels.
-#        데이터 분석가로서 DTx, 스마트 마스크, 밀접 접촉 프로젝트를 진행했습니다. 현재는 DTx 프로젝트에 전념해서,
-#        매칭, CCM 등의 인과분석 테크닉을 공부하고 적용하여 관측 센서 데이터를 활용해 디지털 치료제의 효과를 분석하는 플랫폼을 개발 중임.
-#        또한, 인간의 생체 데이터를 활용해 스트레스 정도를 예측하는 알고리즘 및 인터렉티브 가시화 플랫폼 개발.
-#     - role: Mentor
-#       time: 2020.03 - 2020.07
-#       company: Vision in Calling, HGU
-#       details: |
-#         한동대학교 VIC(Vision in Calling) 스쿨 주관 "세상을 변화시키는 10대 프로젝트"의 멘토로 참여. 멘토로서 중고등학생들이 스스로 문제를 발굴하고 해결책을 제안하도록 도움을 줌.
-#         우수 프로젝트로 선정 됐으며, 한동대학교 총장상을 수여받음.
-    - role: Director
-      time: 2019.12 - 2020.07
-      company: Dep. of General Affairs, Student Government, HGU
-      details: |
-        I worked as a general affairs director in the student government. I managed a budget of about 100 million won for student expenses and established and 
-        executed a large and small project funding plan. I also improved the maintenance and update of organizational documents, implementation of all necessary 
-        policies, and policies and procedures related to human resources.
-#        총학생회 총무국장 수행. 1억원 정도의 학생경비 예산을 운영 했으며, 이 과정에서 크고 작은 사업 자금 계획을 수립 및 집행했음. 
-#     - role: Researcher
-#       time: 2019.08 - 2020.02
-#       company: Mathematics and Statistics major, HGU
-#       details: |
-#        수학통계학 연구원으로서 조절효과와 매개효과 분석에 대한 연구 진행. advised by Heonjoo Kim.
-#     - role: Executive
-#       time: 2019.07 - 2020.02
-#       company: Residential College of International Dormitory, HGU
-#       details: |
-#        학생 기숙사 관리자. 각종 이벤트 진행
-    - role: Data Analyst
-      time: 2018.08 - 2020.07
-      company: Technological entrepreneurship Lab, HGU
-      details: |
-        As an undergraduate researcher, I worked at the Technological entrepreneurship Lab supervised by Doohee Chung for data analysis.
-        As a data analyst, I participated in various projects related to Technological Entrepreneurship. 
-        In particular, I used a number of statistical techniques, including hierarchical regression, to analyze moderating effects, mediating effects, etc. 
-        through SPSS, STATA, and AMOS.
-#        학부 연구원으로 Technological entrepreneurship Lab advised by Prof. Doohee Chung에서 데이터 분석 업무를 수행함. 데이터 분석가로서 기술창업과 관련된 각종 프로젝트 참여함.
-#        특히, 통계 기법들을 활용해 조절효과, 매개효과 등을 SPSS, STATA, AMOS를 통해 분석하는 업무 수행. 관련 논문은 국내 등재지에서 최우수 논문상을 받기도 함.
-    - role: Operation Manager
-      time: 2018.03 - 2018.09
-      company: Handong English Camp, HGU
-      details: |
-        I worked as a general manager at an English camp for about 300 elementary and middle school students. I operated all the programs and other 
-        things related to the two-month camp schedule. From the camp preparation stage to the start and end of the camp, the whole process was in English.
-#        300명 정도의 초*중학생을 대상으로 2개월 동안 진행되는 캠프의 프로그램 매니저 역할 수행. 캠프 일정과 관련된 모든 프로그램 및 기타 사항들을 계획하고 운영함.
-#       또한 학생들을 보조하는 스태프들의 매니저로서, 캠프에 대한 전반적인 상황을 관리하고 총괄 역할을 수행함. 캠프 준비 단계부터 시작, 끝나는 단계까지 모든 과정은 영어로 진행됨.
-#     - role: Teaching Assistant
-#       time: 2018.03 - 2018.07
-#       company: HGU
-#       details: |
-#         경영 IT 실무 전공 수업 조교. advised by I-Soo Joe. 한 학기 동안 학생들에게 엑셀 강의 진행. 
-#     - role: Teaching Assistant (Tutoring for foreigner)
-#       time: 2017.09 - 2017.12
-#       company: HGU
-#       details: |
-#         회계실무 전공 수업 조교. advised by Hyunmo Sung. 한 학기 동안 외국인 학생을 대상으로 튜터링 진행. 모든 수업은 영어로 진행 됐음.
-    - role: English Instructor
-      time: 2017.03 - 2017.11
-      company: Global Vision Christian School (GVCS)
-      details: |
-        I hosted an English class for about 100 elementary and middle school students at GVCS located in Sejong City, South Korea. 
-        Participated as an equivalent English instructor with 30 other native speakers. 
-        Also, I worked as an English interpreter for various events as well as conducted classes.
-#        한국 세종시에 위치한 GVCS 글로벌 선진학교에서 100명 정도의 초*중학생을 대상으로 영어 수업을 진행함. 30명의 다른 원어민 강사들과 함께 동등한 영어 강사로 참여했음. 
-#        수업 뿐만 아니라, 각종 행사에 영어 통역사로 일하기도 함.
-        
-    - role: Accountant
-      time: 2017.03 - 2019.08
-      company: International freshmen orientation, HGU
-      details: |
-        I participated in the orientation for 200 foreign freshmen as an accountant for a total of 6 semesters.
-        I ran a budget of 30 million won each time and set up and implemented a program funding plan.
-        Since most of the staff are also foreigners, we communicated in English from the preparation process to the end of the orientation.
-#        매번 3천만원 규모의 예산을 운영 했으며, 프로그램 자금 계획을 수립 및 집행했음. 
+    # - role: Researcher
+    #   time: 2020.08 - 2022.07
+    #   company: Interactive Computing Lab, KAIST
+    #   details: |
+    #       I participated in Digital Therapeutics(DTx), Smart mask, Contact tracing projects. Currently, I'm focusing on the DTx project to develop
+    #       a platform that analyzes the effectiveness of digital treatments by studying and applying causal analysis techniques such as matching and CCM and also
+    #       developing algorithms and interactive visualization platforms that use human biometric data to predict stress levels.
+    #        데이터 분석가로서 DTx, 스마트 마스크, 밀접 접촉 프로젝트를 진행했습니다. 현재는 DTx 프로젝트에 전념해서,
+    #        매칭, CCM 등의 인과분석 테크닉을 공부하고 적용하여 관측 센서 데이터를 활용해 디지털 치료제의 효과를 분석하는 플랫폼을 개발 중임.
+    #        또한, 인간의 생체 데이터를 활용해 스트레스 정도를 예측하는 알고리즘 및 인터렉티브 가시화 플랫폼 개발.
+    #     - role: Mentor
+    #       time: 2020.03 - 2020.07
+    #       company: Vision in Calling, HGU
+    #       details: |
+    #         한동대학교 VIC(Vision in Calling) 스쿨 주관 "세상을 변화시키는 10대 프로젝트"의 멘토로 참여. 멘토로서 중고등학생들이 스스로 문제를 발굴하고 해결책을 제안하도록 도움을 줌.
+    #         우수 프로젝트로 선정 됐으며, 한동대학교 총장상을 수여받음.
+    # - role: Director
+    #   time: 2019.12 - 2020.07
+    #   company: Dep. of General Affairs, Student Government, HGU
+    #   details: |
+    #       I worked as a general affairs director in the student government. I managed a budget of about 100 million won for student expenses and established and
+    #       executed a large and small project funding plan. I also improved the maintenance and update of organizational documents, implementation of all necessary
+    #       policies, and policies and procedures related to human resources.
+    #        총학생회 총무국장 수행. 1억원 정도의 학생경비 예산을 운영 했으며, 이 과정에서 크고 작은 사업 자금 계획을 수립 및 집행했음.
+    #     - role: Researcher
+    #       time: 2019.08 - 2020.02
+    #       company: Mathematics and Statistics major, HGU
+    #       details: |
+    #        수학통계학 연구원으로서 조절효과와 매개효과 분석에 대한 연구 진행. advised by Heonjoo Kim.
+    #     - role: Executive
+    #       time: 2019.07 - 2020.02
+    #       company: Residential College of International Dormitory, HGU
+    #       details: |
+    #        학생 기숙사 관리자. 각종 이벤트 진행
+    # - role: Data Analyst
+    #   time: 2018.08 - 2020.07
+    #   company: Technological entrepreneurship Lab, HGU
+    #   details: |
+    #       As an undergraduate researcher, I worked at the Technological entrepreneurship Lab supervised by Doohee Chung for data analysis.
+    #       As a data analyst, I participated in various projects related to Technological Entrepreneurship.
+    #       In particular, I used a number of statistical techniques, including hierarchical regression, to analyze moderating effects, mediating effects, etc.
+    #       through SPSS, STATA, and AMOS.
+    #        학부 연구원으로 Technological entrepreneurship Lab advised by Prof. Doohee Chung에서 데이터 분석 업무를 수행함. 데이터 분석가로서 기술창업과 관련된 각종 프로젝트 참여함.
+    #        특히, 통계 기법들을 활용해 조절효과, 매개효과 등을 SPSS, STATA, AMOS를 통해 분석하는 업무 수행. 관련 논문은 국내 등재지에서 최우수 논문상을 받기도 함.
+    # - role: Operation Manager
+    #   time: 2018.03 - 2018.09
+    #   company: Handong English Camp, HGU
+    #   details: |
+    #       I worked as a general manager at an English camp for about 300 elementary and middle school students. I operated all the programs and other
+    #       things related to the two-month camp schedule. From the camp preparation stage to the start and end of the camp, the whole process was in English.
+    #        300명 정도의 초*중학생을 대상으로 2개월 동안 진행되는 캠프의 프로그램 매니저 역할 수행. 캠프 일정과 관련된 모든 프로그램 및 기타 사항들을 계획하고 운영함.
+    #       또한 학생들을 보조하는 스태프들의 매니저로서, 캠프에 대한 전반적인 상황을 관리하고 총괄 역할을 수행함. 캠프 준비 단계부터 시작, 끝나는 단계까지 모든 과정은 영어로 진행됨.
+    #     - role: Teaching Assistant
+    #       time: 2018.03 - 2018.07
+    #       company: HGU
+    #       details: |
+    #         경영 IT 실무 전공 수업 조교. advised by I-Soo Joe. 한 학기 동안 학생들에게 엑셀 강의 진행.
+    #     - role: Teaching Assistant (Tutoring for foreigner)
+    #       time: 2017.09 - 2017.12
+    #       company: HGU
+    #       details: |
+    #         회계실무 전공 수업 조교. advised by Hyunmo Sung. 한 학기 동안 외국인 학생을 대상으로 튜터링 진행. 모든 수업은 영어로 진행 됐음.
+    # - role: English Instructor
+    #   time: 2017.03 - 2017.11
+    #   company: Global Vision Christian School (GVCS)
+    #   details: |
+    #       I hosted an English class for about 100 elementary and middle school students at GVCS located in Sejong City, South Korea.
+    #       Participated as an equivalent English instructor with 30 other native speakers.
+    #       Also, I worked as an English interpreter for various events as well as conducted classes.
+    #        한국 세종시에 위치한 GVCS 글로벌 선진학교에서 100명 정도의 초*중학생을 대상으로 영어 수업을 진행함. 30명의 다른 원어민 강사들과 함께 동등한 영어 강사로 참여했음.
+    #        수업 뿐만 아니라, 각종 행사에 영어 통역사로 일하기도 함.
+
+    # - role: Accountant
+    #   time: 2017.03 - 2019.08
+    #   company: International freshmen orientation, HGU
+    #   details: |
+    #       I participated in the orientation for 200 foreign freshmen as an accountant for a total of 6 semesters.
+    #       I ran a budget of 30 million won each time and set up and implemented a program funding plan.
+    #       Since most of the staff are also foreigners, we communicated in English from the preparation process to the end of the orientation.
+
+#        매번 3천만원 규모의 예산을 운영 했으며, 프로그램 자금 계획을 수립 및 집행했음.
 #        스태프들 또한 외국인이 대다수이기 때문에, 준비 과정부터 오리엔테이션이 끝날 때까지 영어로 소통하며 진행함.
 
-projects:
-    title: Projects
-    assignments:
-      - title: Okestro | Create an LLM model for RAG system
-        tagline: | 
-            Large language model(LLM) for Korean specialized in high-performance retrieval-augmented generation(RAG) system is very rare. We created Korean LLM specialized for RAG using Orion-14B as a foundation model. 
-            A total of 800,000 data were selected from the AI hub. This data was refined and GPT-4 was used to create 8,000 high-quality RAG training data.
-            We used data distributed parallel(DDP) to train multiple A100 GPUs in parallel and utilized the low-rank adaptation of large language models(LoRA).
-        details: |
-            -  [<u>[PPT] Building a RAG system specialized for Korean in closed network</u>](https://docs.google.com/presentation/d/16MwlVt9q-y66UzTJpu8qd78cAQTPR9NWt-0e4M75fXc/edit?usp=sharing)
-            -  [<u>[Table] Example of qualitative evaluation after fine-tuning LLM for RAG</u>](https://docs.google.com/spreadsheets/d/1R0bKJt5Q58Dd0Bc1AUwQGSup-9ttulBVN_CEJD8lgtg/edit?usp=sharing)
-            
-      - title: Okestro | Korean Embedding Model Pipeline in Closed Network RAG System
-        tagline: | 
-            In order to provide chatbot services to customers in a closed network environment, it is essential to provide an embedding model. 
-            We are working on a project to secure a high-performance Korean language embedding model. As a project leader, I researched several baseline Korean embedding models on the huggingface.
-            We selected a baseline model and automated the construction of a dataset for embedding model fine-tuning. By fine-tuning the embedding model using these datasets, 
-            we were able to have a Korean embedding model with significantly better performance than the text-ada-embedding-002 provided by OpenAI.
-        details: |
-            -  [<u>[PPT] Korean Embedding Model in RAG system</u>](https://docs.google.com/presentation/d/1Ef7ARwoXb7u1CL1n2IF7wi-hWxfGUA4cRb_-F_edq4c/edit?usp=sharing)
-            -  [<u>[PPT] Word Embedding</u>](https://docs.google.com/presentation/d/1LL8OU4HaWoQDwr2Mx6qYCDtkZVvWVs2ba_XWYq9qUpI/edit?usp=sharing)
-      
-      - title: Okestro | Deploying chatbot service specific to cloud domain
-        tagline: | 
-            We are developing Chatbot specific to cloud domains using Retrieval-Augmented Generation (RAG) system. 
-            Through this, we can primarily handle product-related inquiries from in-house customers. 
-            we are working on how to generate answers that can give trust to users in the RAG system.
-        details: |
-            -  [<u>[PPT] RAG system</u>](https://docs.google.com/presentation/d/1c02biCBMPB4QXo7wSaMMjEtNWkeiGSkxtOaCy294cMo/edit?usp=sharing)
-            
-      - title: Okestro | FAQ Classification
-        tagline: | 
-            This paper contributes to enhancing the experience of users and administrators in the FAQ system.
-            We present a model that uses BERT and contrastive learning to automatically classify users' inquiries. 
-            The model eliminates the need for users to have domain knowledge or for administrators to classify multiple inquiries. 
-            This can significantly improve the efficiency of the inquiry management system, reduce the workload of users and administrators and enhance the overall user experience.
-        details: |
-            -  <b>Yongshin Kim</b>, Taehee Lee, Sanghyeon Jung, Chanjae Lee, Taewan Kwon, “[<u>Improving Cloud FAQ Experience through Contrastive Learning-based Inquiry Classification</u>](https://yong-shin.github.io/assets/pdf/Improving Cloud FAQ Experience through Contrastive Learning-based Inquiry Classification.pdf)”, Korea Computer Congress, Jeju Island, Korea (2023)
-            -  [<u>[PPT] KCC 2023</u>](https://docs.google.com/presentation/d/1tdM9cC6tt8-ZlDAFN7N0VpCxnWGhA1zUBmVsfM4MBjA/edit?usp=sharing)
-            
-      - title: Okestro | Log-Level Anomaly Detection
-        tagline: | 
-            We present FineLog, a log message-wise anomaly detection framework that enables anomaly detection for each log message in the context of a given sequence. 
-            This study shows that FineLog not only records high performance in the existing sequence unit anomaly detection, but also records high performance in log unit anomaly detection.
-        details: |
-            -  Taewan Kwon, Chanjae Lee, Sanghyeon Jung, <b>Yongshin Kim</b>, Taehee Lee, “[<u>Framework for Log-Level Anomaly Detection in a Log Sequence using Bidirectional Encoder Representations from Transformers</u>](https://yong-shin.github.io/assets/pdf/Framework for Log-Level Anomaly Detection in a Log Sequence using Bidirectional Encoder Representations from Transformers.pdf)”, Korea Computer Congress, Jeju Island, Korea (2023)
-            
-      - title: Okestro | Baseline of SWOT Classification
-        tagline: | 
-            We present baseline indicators by introducing BERT model, which is widely used in the natural language processing field, for the first time in SWOT analysis. 
-            Starting with this approach, the baseline indicators of this study are expected to be useful for business intelligence cloud platforms that can be easily accessed by all stakeholders through deep learning of SWOT analysis.
-        details: |
-            -  <b>Yongshin Kim</b>, Sanghyeon Jung, Chanjae Lee, Jinhee Kim, “[<u>Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform</u>](https://yong-shin.github.io/assets/pdf/SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Platform.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
-            -  [<u>[PPT] SWOT</u>](https://yong-shin.github.io/assets/pdf/한국정보기술학회_Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform.pdf)
+# projects:
+#     title: Projects
+#     assignments:
+#         - title: Okestro | Create an LLM model for RAG system
+#           tagline: |
+#               Large language model(LLM) for Korean specialized in high-performance retrieval-augmented generation(RAG) system is very rare. We created Korean LLM specialized for RAG using Orion-14B as a foundation model.
+#               A total of 800,000 data were selected from the AI hub. This data was refined and GPT-4 was used to create 8,000 high-quality RAG training data.
+#               We used data distributed parallel(DDP) to train multiple A100 GPUs in parallel and utilized the low-rank adaptation of large language models(LoRA).
+#           details: |
+#               -  [<u>[PPT] Building a RAG system specialized for Korean in closed network</u>](https://docs.google.com/presentation/d/16MwlVt9q-y66UzTJpu8qd78cAQTPR9NWt-0e4M75fXc/edit?usp=sharing)
+#               -  [<u>[Table] Example of qualitative evaluation after fine-tuning LLM for RAG</u>](https://docs.google.com/spreadsheets/d/1R0bKJt5Q58Dd0Bc1AUwQGSup-9ttulBVN_CEJD8lgtg/edit?usp=sharing)
 
-      - title: Okestro | Automation of Company SWOT Analysis Using Sentence BERT
-        tagline: | 
-            This study presented SWOT Sentence BERT as an AIaaS model that can intellectually automate company SWOT analysis. 
-            The SWOT Sentence BERT is a sentence embedding model that is learned through SWOT text data processed in the form of natural language inference task. In order to automate SWOT analysis, we applied K-Means clustering algorithm to make clusters with sentence embeddings and classified sentence embeddings based on their predicted clusters.
-        details: |
-            -  Sanghyeon Jung, <b>Yongshin Kim</b>, Kwangpil Jeong, Taehee Lee, Taewan Kwon, “[<u>Automation of Company SWOT Analysis Using Sentence BERT</u>](https://yong-shin.github.io/assets/pdf/Sentence BERT를 활용한 기업 SWOT 분석 자동화 연구.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
-      
-      - title: KAIST | Emotion Recognition
-        tagline: | 
-            In this study, we propose a method for predicting the emotions of the speaker in the naturalistic conversation using a speaker encoder and counterpart encoder composed of CNN-LSTM deep learning networks. 
-            We used emotion-related data called K-EmoCon collected during the debate process to empirically evaluate our model. The results showed that the counterpart’s speech and the physiological signals had a positive impact on predicting the speaker’s emotions. 
-        details: |
-            -  <b>Yongshin Kim</b>, “[<u>Improving Multi-modal Emotion Recognition with Counterpart Data in Dyadic Conversations</u>](https://yong-shin.github.io/assets/pdf/Improving_Multi_modal_Emotion_Recognition_with_Counterpart_Data_in_Dyadic_Conversations.pdf)”, Master thesis, 2022 Spring
-            -  [<u>[PPT] Master Defense</u>](https://docs.google.com/presentation/d/1-bFZmO-7ice-PsHnfTw14Gr8iJ2nby05OwS7AN4mlUM/edit?usp=sharing)
-      
-      - title: Deepbrain AI | Video & Speech synthesis
-        tagline: |
-            We produced AI Human through voice conversion using StarGAN-VC and image synthesis using FSGAN.
-            Through the process of analyzing various voice conversion models(CycleGAN, StarGAN-VC, StarGAN-VC2), we improved the quality of voice conversion by analyzing loss terms, number of domain classes, batch size, and iteration.
-            In addition, the average similarity between the source video and the target video was used to facilitate video synthesis.
-        details: |
-            -  [<u>[PPT] Fake video through video and speech synthesis</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
-            -  [<u>Demo video</u>](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
-      
-      - title: KAIST | Digital Therapeutics(DTx)
-        tagline: |
-            We develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development.
-            Furthermore, we analyze the effectiveness of digital treatments by applying causal analysis.
-        details: |
-            -  <b>Yongshin Kim</b>, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee, “[<u>Causal Analysis of
-               Observational Mobile Sensor Data: A Comparative Study</u>](https://yong-shin.github.io/assets/pdf/Causal%20Analysis%20of%20Observational%20Mobile%20Sensor%20Data_A%20Comparative%20Study.pdf)”, Korea Computer Congress, 2021 Spring
-               Conference, Jeju Island, Korea (2021)
-            -  [<u>[PPT] KCC 2021</u>](https://docs.google.com/presentation/d/1CawJLCFN33a5qmrYbbliUqnkUTX7CPOY-Y0Y0k65Unk/edit?usp=sharing) 
-      
-      - title: KAIST | Smart Mask
-        tagline: |
-            We review existing types of smart masks and study what sensor data can be collected through smart masks.
-            Also, we develop emotional and stress monitoring algorithms through smart mask sensor data.
-        details: |
-            -  Peter Lee, Heepyung Kim, <b>Yongshin Kim</b>, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong, 
-            “[<u>Beyond Pathogen Filtration: Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>](https://mhealth.jmir.org/2022/6/e38614)”, Journal of Medical Internet Research, 2022
-      
-      - title: KAIST | Contact Tracing
-        tagline: |
-            We develop risk scoring algorithms that can be used for analysis to detect BLE contact between client devices. 
-            In addition, the need to introduce a place beacon is increasing as the number of cases infected with COVID increases just by staying in the same place 
-            without having to contact the confirmed patient directly. We also identify the coverage that place beacon can effectively send and receive 
-            signals with client devices.
-        details: |
-            - [<u>[PPT] Controlled Experiments</u>](https://docs.google.com/presentation/d/13NUZ754G3PWMr634CGnUZldfdh_2DIzrQ6a_fUdh9P0/edit?usp=sharing)
-#            Develop risk scoring algorithms that can be used to analyze client device끼리의 BLE 접촉 탐지.
-#            또한 확진자와 직접 접촉하지 않고도 같은 장소에 머물렀다는 사실만으로 감염되는 사례가 증가함에 따라, place beacon을 도입할 필요성이 증가하고 있다. 
-#            place beacon이 client device들과 효과적으로 신호를 주고받을 수 있는 coverage를 확인하는 것 역시 본 연구의 목표로 한다.        
+#         - title: Okestro | Korean Embedding Model Pipeline in Closed Network RAG System
+#           tagline: |
+#               In order to provide chatbot services to customers in a closed network environment, it is essential to provide an embedding model.
+#               We are working on a project to secure a high-performance Korean language embedding model. As a project leader, I researched several baseline Korean embedding models on the huggingface.
+#               We selected a baseline model and automated the construction of a dataset for embedding model fine-tuning. By fine-tuning the embedding model using these datasets,
+#               we were able to have a Korean embedding model with significantly better performance than the text-ada-embedding-002 provided by OpenAI.
+#           details: |
+#               -  [<u>[PPT] Korean Embedding Model in RAG system</u>](https://docs.google.com/presentation/d/1Ef7ARwoXb7u1CL1n2IF7wi-hWxfGUA4cRb_-F_edq4c/edit?usp=sharing)
+#               -  [<u>[PPT] Word Embedding</u>](https://docs.google.com/presentation/d/1LL8OU4HaWoQDwr2Mx6qYCDtkZVvWVs2ba_XWYq9qUpI/edit?usp=sharing)
+
+#         - title: Okestro | Deploying chatbot service specific to cloud domain
+#           tagline: |
+#               We are developing Chatbot specific to cloud domains using Retrieval-Augmented Generation (RAG) system.
+#               Through this, we can primarily handle product-related inquiries from in-house customers.
+#               we are working on how to generate answers that can give trust to users in the RAG system.
+#           details: |
+#               -  [<u>[PPT] RAG system</u>](https://docs.google.com/presentation/d/1c02biCBMPB4QXo7wSaMMjEtNWkeiGSkxtOaCy294cMo/edit?usp=sharing)
+
+#         - title: Okestro | FAQ Classification
+#           tagline: |
+#               This paper contributes to enhancing the experience of users and administrators in the FAQ system.
+#               We present a model that uses BERT and contrastive learning to automatically classify users' inquiries.
+#               The model eliminates the need for users to have domain knowledge or for administrators to classify multiple inquiries.
+#               This can significantly improve the efficiency of the inquiry management system, reduce the workload of users and administrators and enhance the overall user experience.
+#           details: |
+#               -  <b>Yongshin Kim</b>, Taehee Lee, Sanghyeon Jung, Chanjae Lee, Taewan Kwon, “[<u>Improving Cloud FAQ Experience through Contrastive Learning-based Inquiry Classification</u>](https://yong-shin.github.io/assets/pdf/Improving Cloud FAQ Experience through Contrastive Learning-based Inquiry Classification.pdf)”, Korea Computer Congress, Jeju Island, Korea (2023)
+#               -  [<u>[PPT] KCC 2023</u>](https://docs.google.com/presentation/d/1tdM9cC6tt8-ZlDAFN7N0VpCxnWGhA1zUBmVsfM4MBjA/edit?usp=sharing)
+
+#         - title: Okestro | Log-Level Anomaly Detection
+#           tagline: |
+#               We present FineLog, a log message-wise anomaly detection framework that enables anomaly detection for each log message in the context of a given sequence.
+#               This study shows that FineLog not only records high performance in the existing sequence unit anomaly detection, but also records high performance in log unit anomaly detection.
+#           details: |
+#               -  Taewan Kwon, Chanjae Lee, Sanghyeon Jung, <b>Yongshin Kim</b>, Taehee Lee, “[<u>Framework for Log-Level Anomaly Detection in a Log Sequence using Bidirectional Encoder Representations from Transformers</u>](https://yong-shin.github.io/assets/pdf/Framework for Log-Level Anomaly Detection in a Log Sequence using Bidirectional Encoder Representations from Transformers.pdf)”, Korea Computer Congress, Jeju Island, Korea (2023)
+
+#         - title: Okestro | Baseline of SWOT Classification
+#           tagline: |
+#               We present baseline indicators by introducing BERT model, which is widely used in the natural language processing field, for the first time in SWOT analysis.
+#               Starting with this approach, the baseline indicators of this study are expected to be useful for business intelligence cloud platforms that can be easily accessed by all stakeholders through deep learning of SWOT analysis.
+#           details: |
+#               -  <b>Yongshin Kim</b>, Sanghyeon Jung, Chanjae Lee, Jinhee Kim, “[<u>Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform</u>](https://yong-shin.github.io/assets/pdf/SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Platform.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
+#               -  [<u>[PPT] SWOT</u>](https://yong-shin.github.io/assets/pdf/한국정보기술학회_Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform.pdf)
+
+#         - title: Okestro | Automation of Company SWOT Analysis Using Sentence BERT
+#           tagline: |
+#               This study presented SWOT Sentence BERT as an AIaaS model that can intellectually automate company SWOT analysis.
+#               The SWOT Sentence BERT is a sentence embedding model that is learned through SWOT text data processed in the form of natural language inference task. In order to automate SWOT analysis, we applied K-Means clustering algorithm to make clusters with sentence embeddings and classified sentence embeddings based on their predicted clusters.
+#           details: |
+#               -  Sanghyeon Jung, <b>Yongshin Kim</b>, Kwangpil Jeong, Taehee Lee, Taewan Kwon, “[<u>Automation of Company SWOT Analysis Using Sentence BERT</u>](https://yong-shin.github.io/assets/pdf/Sentence BERT를 활용한 기업 SWOT 분석 자동화 연구.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
+
+#         - title: KAIST | Emotion Recognition
+#           tagline: |
+#               In this study, we propose a method for predicting the emotions of the speaker in the naturalistic conversation using a speaker encoder and counterpart encoder composed of CNN-LSTM deep learning networks.
+#               We used emotion-related data called K-EmoCon collected during the debate process to empirically evaluate our model. The results showed that the counterpart’s speech and the physiological signals had a positive impact on predicting the speaker’s emotions.
+#           details: |
+#               -  <b>Yongshin Kim</b>, “[<u>Improving Multi-modal Emotion Recognition with Counterpart Data in Dyadic Conversations</u>](https://yong-shin.github.io/assets/pdf/Improving_Multi_modal_Emotion_Recognition_with_Counterpart_Data_in_Dyadic_Conversations.pdf)”, Master thesis, 2022 Spring
+#               -  [<u>[PPT] Master Defense</u>](https://docs.google.com/presentation/d/1-bFZmO-7ice-PsHnfTw14Gr8iJ2nby05OwS7AN4mlUM/edit?usp=sharing)
+
+#         - title: Deepbrain AI | Video & Speech synthesis
+#           tagline: |
+#               We produced AI Human through voice conversion using StarGAN-VC and image synthesis using FSGAN.
+#               Through the process of analyzing various voice conversion models(CycleGAN, StarGAN-VC, StarGAN-VC2), we improved the quality of voice conversion by analyzing loss terms, number of domain classes, batch size, and iteration.
+#               In addition, the average similarity between the source video and the target video was used to facilitate video synthesis.
+#           details: |
+#               -  [<u>[PPT] Fake video through video and speech synthesis</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
+#               -  [<u>Demo video</u>](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
+
+#         - title: KAIST | Digital Therapeutics(DTx)
+#           tagline: |
+#               We develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development.
+#               Furthermore, we analyze the effectiveness of digital treatments by applying causal analysis.
+#           details: |
+#               -  <b>Yongshin Kim</b>, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee, “[<u>Causal Analysis of
+#                  Observational Mobile Sensor Data: A Comparative Study</u>](https://yong-shin.github.io/assets/pdf/Causal%20Analysis%20of%20Observational%20Mobile%20Sensor%20Data_A%20Comparative%20Study.pdf)”, Korea Computer Congress, 2021 Spring
+#                  Conference, Jeju Island, Korea (2021)
+#               -  [<u>[PPT] KCC 2021</u>](https://docs.google.com/presentation/d/1CawJLCFN33a5qmrYbbliUqnkUTX7CPOY-Y0Y0k65Unk/edit?usp=sharing)
+
+#         - title: KAIST | Smart Mask
+#           tagline: |
+#               We review existing types of smart masks and study what sensor data can be collected through smart masks.
+#               Also, we develop emotional and stress monitoring algorithms through smart mask sensor data.
+#           details: |
+#               -  Peter Lee, Heepyung Kim, <b>Yongshin Kim</b>, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong,
+#               “[<u>Beyond Pathogen Filtration: Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>](https://mhealth.jmir.org/2022/6/e38614)”, Journal of Medical Internet Research, 2022
+
+#         - title: KAIST | Contact Tracing
+#           tagline: |
+#               We develop risk scoring algorithms that can be used for analysis to detect BLE contact between client devices.
+#               In addition, the need to introduce a place beacon is increasing as the number of cases infected with COVID increases just by staying in the same place
+#               without having to contact the confirmed patient directly. We also identify the coverage that place beacon can effectively send and receive
+#               signals with client devices.
+#           details: |
+#               - [<u>[PPT] Controlled Experiments</u>](https://docs.google.com/presentation/d/13NUZ754G3PWMr634CGnUZldfdh_2DIzrQ6a_fUdh9P0/edit?usp=sharing)
+#         #            Develop risk scoring algorithms that can be used to analyze client device끼리의 BLE 접촉 탐지.
+#            또한 확진자와 직접 접촉하지 않고도 같은 장소에 머물렀다는 사실만으로 감염되는 사례가 증가함에 따라, place beacon을 도입할 필요성이 증가하고 있다.
+#            place beacon이 client device들과 효과적으로 신호를 주고받을 수 있는 coverage를 확인하는 것 역시 본 연구의 목표로 한다.
 #        details: |
 #            - [<u>Experiment Report&#58; BLE based contact detection algorithm</u>](https://yong-shin.github.io/assets/pdf/Contact%20tracing_KETI.pdf)
-      
-      - title: KAIST | [KSE801] Recommender System and Graph Machine Learning
-        tagline: |
-            We developed SRM(Stress Recommendation system with Mobile sensor data), a recommendation system to relieve human stress by utilizing mobile sensor data.
-            Unlike previous recommendation systems using correlation and cosine similarity, SRM can more accurately 
-            identify and recommend factors that cause stress because it operates based on causal analysis using a counterfactual approach. (Course Project)
-        details: | 
-            - “[<u>SRM&#58; Stress Recommendation system with Mobile sensor data</u>](https://yong-shin.github.io/assets/pdf/SRM__Stress_Recommendation_system_with_Mobile_sensor_data.pdf)”
-            - [<u>[PPT] SRM</u>](https://docs.google.com/presentation/d/16mhR3xWrIrHedR9mj-W-DhlW7nwsLlINKSW0iXuhX7s/edit?usp=sharing)
-      
-      - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
-        tagline: |
-            We introduce a new interpretation of art experience by presenting CAN(Communicative Art Network), which allows viewers
-            to achieve self-reliant thinking based on their art experience. CAN is a platform that consists of CAN AR Comment System and CAN
-            SNS. (Course Project)
-        details: | 
-            - “[<u>Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)</u>](https://yong-shin.github.io/assets/pdf/Step-by-step%20Self-reliant%20Thinking%20with%20CAN(Communicative%20ARt%20Network).pdf)”
-            - [<u>[PPT] CAN</u>](https://docs.google.com/presentation/d/1uzZpo7nAzt5vnvZdNxKv_iFIK79M2sekBXhpupug8SY/edit?usp=sharing)
-      
-      - title: KAIST | [KSE526] Analytical Methodologies for Big Data
-        tagline: |
-            We propose EFNet(Energy usage Forecasting Network) which forecasts energy usage by using attention based CNN-LSTM networks. EFNet is a sequential prediction model that reflects the characteristics of variables
-            such as weather, calendar, oil price, and COVID-19 confirmed cases. (Course Project)
-        details: |
-            - “[<u>EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors</u>](https://yong-shin.github.io/assets/pdf/EFNet%20Attention%20based%20CNN-LSTM%20Networks%20forEnergy%20Usage%20Forecasting%20with%20External%20Factors.pdf)”
-            - [<u>[PPT] EFNet</u>](https://docs.google.com/presentation/d/1KVK4liLqtHyMuzCnaQzp7M0qkRhk5Ys-nwQWSVv9Hrc/edit?usp=sharing)
-      
-      - title: KAIST | [KSE801] Sensor Data Science
-        tagline: |
-            Wearable devices and smartphones can be used to track a person's body and physiological conditions to determine the relationship between physical activity and stress level.
-            The goal of the research was to predict people’s daily stress level from three different sets of data: 1) physical data 2) User info data 3) ESM data. (Course Project)
-        details: |
-            - [<u>[PPT] Emotion recognition with mobile phone & wearable sensor data</u>](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf)
 
-publications:
-    title: Publications
-    papers:
-      - title: <u>Beyond Pathogen Filtration&#58; Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>
-        link: "https://mhealth.jmir.org/2022/6/e38614"
-        authors: Peter Lee, Heepyung Kim, <b>Yongshin Kim</b>, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong
-        conference: Journal of Medical Internet Research, 2022
-      - title: <u>Nonlinear Relationship Between Technological Entrepreneurship and National Competitiveness&#58; The Moderation Effect of Innovation-driven Economy</u>
-        link: "https://www.koreascience.or.kr/article/JAKO201921853968627.page"
-        authors: Seung-Lin Yang, <b>Yongshin Kim</b>, Doohee Chung
-        conference: Journal of Technology Innovation, 2019 [<u>[PPT]</u>](https://yong-shin.github.io/assets/pdf/기술경영경제학회_김용신.pdf)
-      - title: <u>The Effect of Intellectual Property-Based Startups on Employment</u>
-        link: "assets/pdf/The Effect of Intellectual Property-Based Startups on Employment.pdf"
-        authors: Haejun Jung, <b>Yongshin Kim</b>, Doohee Chung
-        conference: Korea Technology Innovation Society, 2019 [<u>[PPT]</u>](https://yong-shin.github.io/assets/pdf/한국기술혁신학회_김용신.pdf)
+# - title: KAIST | [KSE801] Recommender System and Graph Machine Learning
+#   tagline: |
+#       We developed SRM(Stress Recommendation system with Mobile sensor data), a recommendation system to relieve human stress by utilizing mobile sensor data.
+#       Unlike previous recommendation systems using correlation and cosine similarity, SRM can more accurately
+#       identify and recommend factors that cause stress because it operates based on causal analysis using a counterfactual approach. (Course Project)
+#   details: |
+#       - “[<u>SRM&#58; Stress Recommendation system with Mobile sensor data</u>](https://yong-shin.github.io/assets/pdf/SRM__Stress_Recommendation_system_with_Mobile_sensor_data.pdf)”
+#       - [<u>[PPT] SRM</u>](https://docs.google.com/presentation/d/16mhR3xWrIrHedR9mj-W-DhlW7nwsLlINKSW0iXuhX7s/edit?usp=sharing)
 
-skills:
-    title: Skills &amp; Proficiency
+# - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
+#   tagline: |
+#       We introduce a new interpretation of art experience by presenting CAN(Communicative Art Network), which allows viewers
+#       to achieve self-reliant thinking based on their art experience. CAN is a platform that consists of CAN AR Comment System and CAN
+#       SNS. (Course Project)
+#   details: |
+#       - “[<u>Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)</u>](https://yong-shin.github.io/assets/pdf/Step-by-step%20Self-reliant%20Thinking%20with%20CAN(Communicative%20ARt%20Network).pdf)”
+#       - [<u>[PPT] CAN</u>](https://docs.google.com/presentation/d/1uzZpo7nAzt5vnvZdNxKv_iFIK79M2sekBXhpupug8SY/edit?usp=sharing)
 
-    toolset:
-      - name: Python
-        level: 95%
+# - title: KAIST | [KSE526] Analytical Methodologies for Big Data
+#   tagline: |
+#       We propose EFNet(Energy usage Forecasting Network) which forecasts energy usage by using attention based CNN-LSTM networks. EFNet is a sequential prediction model that reflects the characteristics of variables
+#       such as weather, calendar, oil price, and COVID-19 confirmed cases. (Course Project)
+#   details: |
+#       - “[<u>EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors</u>](https://yong-shin.github.io/assets/pdf/EFNet%20Attention%20based%20CNN-LSTM%20Networks%20forEnergy%20Usage%20Forecasting%20with%20External%20Factors.pdf)”
+#       - [<u>[PPT] EFNet</u>](https://docs.google.com/presentation/d/1KVK4liLqtHyMuzCnaQzp7M0qkRhk5Ys-nwQWSVv9Hrc/edit?usp=sharing)
 
-      - name: SQL
-        level: 70%
+# - title: KAIST | [KSE801] Sensor Data Science
+#   tagline: |
+#       Wearable devices and smartphones can be used to track a person's body and physiological conditions to determine the relationship between physical activity and stress level.
+#       The goal of the research was to predict people’s daily stress level from three different sets of data: 1) physical data 2) User info data 3) ESM data. (Course Project)
+#   details: |
+#       - [<u>[PPT] Emotion recognition with mobile phone & wearable sensor data</u>](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf)
 
-      - name: R
-        level: 70%
+# publications:
+#     title: Publications
+#     papers:
+#         - title: <u>Beyond Pathogen Filtration&#58; Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>
+#           link: "https://mhealth.jmir.org/2022/6/e38614"
+#           authors: Peter Lee, Heepyung Kim, <b>Yongshin Kim</b>, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong
+#           conference: Journal of Medical Internet Research, 2022
+#         - title: <u>Nonlinear Relationship Between Technological Entrepreneurship and National Competitiveness&#58; The Moderation Effect of Innovation-driven Economy</u>
+#           link: "https://www.koreascience.or.kr/article/JAKO201921853968627.page"
+#           authors: Seung-Lin Yang, <b>Yongshin Kim</b>, Doohee Chung
+#           conference: Journal of Technology Innovation, 2019 [<u>[PPT]</u>](https://yong-shin.github.io/assets/pdf/기술경영경제학회_김용신.pdf)
+#         - title: <u>The Effect of Intellectual Property-Based Startups on Employment</u>
+#           link: "assets/pdf/The Effect of Intellectual Property-Based Startups on Employment.pdf"
+#           authors: Haejun Jung, <b>Yongshin Kim</b>, Doohee Chung
+#           conference: Korea Technology Innovation Society, 2019 [<u>[PPT]</u>](https://yong-shin.github.io/assets/pdf/한국기술혁신학회_김용신.pdf)
+# skills:
+#     title: Skills &amp; Proficiency
 
-      - name: SPSS & AMOS
-        level: 50%
+#     toolset:
+#         - name: Python
+#           level: 95%
 
-      - name: STATA
-        level: 50%
+#         - name: SQL
+#           level: 70%
 
+#         - name: R
+#           level: 70%
+
+#         - name: SPSS & AMOS
+#           level: 50%
+
+#         - name: STATA
+#           level: 50%
 #       - name: MS Office
 #         level: 80%
